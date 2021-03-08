@@ -24,9 +24,15 @@ Datalite is a Python library written for the modern language, extending `datacla
 
 A *completely* static website to explore the mysterious Voynich manuscript written in an alphabet no one knows, eluding best of our experts so far, created by parsing through the transcript, writing a custom (simple) static templating engine, writing the frontend using MiniCSS and vanilla JS, webscrapping the WikimediaCommons page for the images of the manuscript pages, signing up to defunct mailing lists and tracking down a font through Reddit and putting them all together. An experiment to learn how many HTML files are one too many, result? However much you like!
 
+#### [Trefusis Engine](https://github.com/ProjectAras/TrefusisEngine)
+
+A very simple newly created 2D game engine that currently supports randomised map creation from configuration files and tilemaps, foilage generation, weather, seasons, day/night cycles, very much in the vein of retro game engines of the eighties.
+
 #### [SASVM](https://github.com/ambertide/SASVM)
 
 Spacecat Assembly Simulator is an educational tool to teach first-timers about Assembly, I wrote it when I realise the original program we used in my university was getting too old to work properly, this one fully supports the files of the older program. Language itself is a simplified assembly language for an 8-bit machine that never was.
+
+
 
 ### There is more! 🙌
 
