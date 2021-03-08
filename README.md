@@ -72,7 +72,7 @@ Last year I realised I *really* love Retro Games, this resulted in a series of p
 [![BMP2VGA](https://github-readme-stats.vercel.app/api/pin/?username=ADA86Games&repo=BMP2VGA)](https://github.com/ADA86Games/BMP2VGA)
 
 
-##### Programming Languages ✳️
+##### Programming Languages 🔨
 
 I am a huge Programming Language nerd! Proud subscriber to r/ProgrammingLanguages, design and implementation of programming languages has always interested me, I have written small interpreters here and there and have penned a proposal for a new programming language, I even implemented parts of it. (CFluxion remains incomplete)
 
