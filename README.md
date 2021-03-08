@@ -38,13 +38,13 @@ Spacecat Assembly Simulator is an educational tool to teach first-timers about A
 
 Above are the projects that are mostly completed, they may have more to be added, but there are many more I have done over the years, some of which are finished but I just didn't feel like they deserved to be at the top the page; others, currently paused but I may return to them any moment, and finally some others are a bit too old or too niche to be up there.
 
-* [Web Programming](#web-programming)
-* [Game Development](#game-development)
-* [Programming Languages](#programming-languages)
-* [Web Scrapping & APIs](#web-scrapping-and-api-wrapping)
-* [Narratives](#narrative-driven-experiences)
+* [Web Programming](#web-programming-)
+* [Game Development](#game-development-)
+* [Programming Languages](#programming-languages-)
+* [Web Scrapping & APIs](#web-scrapping-and-api-wrapping-)
+* [Narratives](#narrative-driven-experiences-)
 
-##### Web Programming🔗
+##### Web Programming 🔗
 
 I have knowledge of ReactJS on the frontend and Flask in the backend, although I have used Django in the past, alongside with the usual suspects HTML, CSS and JavaScript, and have worked on both dynamic and static websites, I have written small custom static website generators but also worked with Hugo and Jekyll. Of course, I have had my fair share of encounters with Bootstrap framework, alongside with MiniCSS.
  
@@ -88,7 +88,7 @@ I know my way around BeautifulSoup and HTML web scrapping, and know how to write
 [![PyTCID](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=PyTCID)](https://github.com/ambertide/PyTCID)
 [![GalacticNewsNetwork](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=GalacticNewsNetwork)](https://github.com/ambertide/GalacticNewsNetwork)
 
-##### Narrative-Driven Experiences
+##### Narrative-Driven Experiences 📖
 
 I always liked writing, hence, sometimes I tend to combine my experiences in writing with my programming experience to create unique narratives, websites, alternate reality games, these are listed here.
 
