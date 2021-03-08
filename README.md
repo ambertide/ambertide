@@ -2,6 +2,8 @@
 
 #### Ege Özkan - eambertide
 
+<a href="https://www.linkedin.com/in/egeozkan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 Hi there, this is my GitHub repository where I keep my open source projects and occasional tinkering, most of these repos are normal programming stuff, occasionaly my more artisty site may step in and add something more uniuqe! Let me take you a curated tour of my projects now!
 
 ## My Projects!
