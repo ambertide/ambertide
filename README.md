@@ -64,8 +64,8 @@ I am a huge Programming Language nerd! Proud subscriber to r/ProgrammingLanguage
 
 [![BrainfuInterpreter](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=SASVM)](https://github.com/ambertide/SASVM)
 [![BrainfuInterpreter](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=BrainfuInterpreter)](https://github.com/ambertide/BrainfuInterpreter)
-[![uFluxion](https://github-readme-stats.vercel.app/api/pin/?username=FluxionLanguagerepo=uFluxion)](https://github.com/FluxionLanguage/uFluxion)
-[![Fluxion Language Specification](https://github-readme-stats.vercel.app/api/pin/?username=FluxionLanguagerepo=LanguageSpecification)](https://github.com/FluxionLanguage/LanguageSpecification)
+[![uFluxion](https://github-readme-stats.vercel.app/api/pin/?username=FluxionLanguage&repo=uFluxion)](https://github.com/FluxionLanguage/uFluxion)
+[![Fluxion Language Specification](https://github-readme-stats.vercel.app/api/pin/?username=FluxionLanguage&repo=LanguageSpecification)](https://github.com/FluxionLanguage/LanguageSpecification)
 
 ##### Web Scrapping and API Wrapping 🤖
 
