@@ -51,7 +51,6 @@ I have knowledge of ReactJS on the frontend and Flask in the backend, although I
 [![VoynichExplorer](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=VoynichExplorer)](https://github.com/ambertide/VoynichExplorer)
 [![ChangelingFrontend](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=ChangelingFrontend)](https://github.com/ambertide/ChangelingFrontend)
 [![ChangelingBackend](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=ChangelingBackend)](https://github.com/ambertide/ChangelingBackend)
-[![IztechCeng6](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=IztechCeng6)](https://github.com/ambertide/IztechCeng6)
 [![mikrobiyoloji](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=mikrobiyoloji)](https://github.com/ambertide/mikrobiyoloji)
 
 ##### Game Development 🎮
