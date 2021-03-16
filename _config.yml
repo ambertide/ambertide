@@ -1,5 +1,11 @@
 theme: jekyll-theme-cayman
-title: Ege Emir Özkan
-project-tagline: My Portfolio
+title: My Projects
+description: ""
+author :
+  name : Ege Emir Özkan
+  email : egeemirozkan24@gmail.com
+  github : ambertide
+  linkedin : egeozkan
+  twitter: EAmbertide
 github:
   is_project_page: false
