@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Ege Emir Özkan
 tagline: My Portfolio
+github:
+  is_project_page: false
