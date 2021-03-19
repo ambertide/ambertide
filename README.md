@@ -86,6 +86,7 @@ I know my way around BeautifulSoup and HTML web scrapping, and know how to write
 
 [![PyTCID](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=PyTCID)](https://github.com/ambertide/PyTCID)
 [![GalacticNewsNetwork](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=GalacticNewsNetwork)](https://github.com/ambertide/GalacticNewsNetwork)
+[![Silene](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=Silene)](https://github.com/ambertide/Silene)
 
 ##### Narrative-Driven Experiences 📖
 
