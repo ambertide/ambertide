@@ -12,7 +12,7 @@ Hi there, this is my GitHub repository where I keep my open source projects and 
 
 I have a lot of projects in my GitHub, at the time of my writing around twenty public and around fourty private, and that is not counting the ones in organisations, teams I founded with my friends. But, since this should be like a CV of sorts, I wanted to sort some of the ones I am most proud of:
 
-#### [Changeling: the Social Deception Game](#)
+#### [Changeling: the Social Deception Game](https://github.com/ambertide/Changeling)
 
 Built on top of SocketIO, Flask, ReactJS and Redis, Changeling is a game to be played with friends, where you dabble in secrets, reveal your life, and learn about others. Played with the right soul, a group of players may leave the night feeling closer as friends. Changeling is designed to have a minimalist interface while still retaining a mood of introuge and horror, when a group of friends enter the woods, they realise one of them has been replaced by a fae...
 
