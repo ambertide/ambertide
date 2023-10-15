@@ -23,7 +23,7 @@ it is hard to keep motivated to learn new stuff when all you do at work is web p
 motivated with small and interesting projects.
 
 [![Varichromatic](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=varichromatic)](https://github.com/ambertide/varichromatic)
-[![flash-verify](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=flask-verify)](https://github.com/ambertide/flask-vertify)
+[![flash-verify](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=flask-verify)](https://github.com/ambertide/flask-verify)
 [![generate-realm](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=generate-realm)](https://github.com/ambertide/generate-realm)
 [![VoynichExplorer](https://github-readme-stats.vercel.app/api/pin/?username=ambertide&repo=VoynichExplorer)](https://github.com/ambertide/VoynichExplorer)
 
