@@ -3,13 +3,12 @@
 <a href="https://www.linkedin.com/in/egeozkan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ambertide)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ambertide.itch.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eambertide)
 
-Hi there, this is my GitHub repository where I keep my open source projects and occasional tinkering, most of these repos are normal programming stuff, occasionaly my more artisty side may step in and add something more uniuqe! Let me take you a curated tour of my projects now!
+Welcome to my GitHub!, I have listed the projects I think are more presentable down below, categorised, some might be still WIP, others I might have collabbed with other people,
+but all are dear and near to me.
 
 ## My Projects!
-
-There are a lot of projects in my GitHub, and a lot of them are experimental dabblings, so this short list only includes the ones that I put a lot of effort to, they might be WIP
-projects, or they might be completed.
 
 * [Web Programming](#web-programming-)
 * [Game Development](#game-development-)
