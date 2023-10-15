@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/egeozkan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ambertide)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)]([https://itch.io/](https://ambertide.itch.io/)
 
 Hi there, this is my GitHub repository where I keep my open source projects and occasional tinkering, most of these repos are normal programming stuff, occasionaly my more artisty side may step in and add something more uniuqe! Let me take you a curated tour of my projects now!
 
